@@ -29,7 +29,6 @@ function ProductPage() {
   }, [searchParams])
 
   function handleChange(values) {
-    console.log({ values })
     setSearchParams(values)
   }
 
