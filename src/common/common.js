@@ -34,7 +34,7 @@ export const menuList = [
 export const footerList = [
   {
     title: 'XE ĐẠP RC',
-    descriptionList: ['Sed ut perspiciatis unde omnis iste natus error sit voluptatem.'],
+    descriptionList: [],
     linkList: [],
     textAlign: 'left',
   },
